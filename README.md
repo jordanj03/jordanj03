@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanj03
 - 👀 I’m interested in everything development related
-- 🌱 I’m currently focusing on front-end web development
+- 🌱 I’m currently learning data analysis with a focus on machine learning
 - ⚖️ Recently finsihed a law degree at the University of Manchester
 
 <!---
